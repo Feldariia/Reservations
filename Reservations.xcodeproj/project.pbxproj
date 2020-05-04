@@ -15,6 +15,7 @@
 		2C442129244A4758005C6DE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C442127244A4758005C6DE5 /* LaunchScreen.storyboard */; };
 		2C442134244A4759005C6DE5 /* ReservationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C442133244A4759005C6DE5 /* ReservationsTests.swift */; };
 		2C44213F244A4759005C6DE5 /* ReservationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C44213E244A4759005C6DE5 /* ReservationsUITests.swift */; };
+		2C95A47E2451801800EC760D /* WebsiteTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C95A47D2451801800EC760D /* WebsiteTab.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C44213A244A4759005C6DE5 /* ReservationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReservationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C44213E244A4759005C6DE5 /* ReservationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReservationsUITests.swift; sourceTree = "<group>"; };
 		2C442140244A4759005C6DE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C95A47D2451801800EC760D /* WebsiteTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteTab.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2C44211C244A4755005C6DE5 /* AppDelegate.swift */,
 				2C44211E244A4755005C6DE5 /* SceneDelegate.swift */,
 				2C442120244A4755005C6DE5 /* ViewController.swift */,
+				2C95A47D2451801800EC760D /* WebsiteTab.swift */,
 				2C442122244A4755005C6DE5 /* Main.storyboard */,
 				2C442125244A4758005C6DE5 /* Assets.xcassets */,
 				2C442127244A4758005C6DE5 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C442121244A4755005C6DE5 /* ViewController.swift in Sources */,
+				2C95A47E2451801800EC760D /* WebsiteTab.swift in Sources */,
 				2C44211D244A4755005C6DE5 /* AppDelegate.swift in Sources */,
 				2C44211F244A4755005C6DE5 /* SceneDelegate.swift in Sources */,
 			);
